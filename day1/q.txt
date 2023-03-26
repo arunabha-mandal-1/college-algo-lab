@@ -1,0 +1,5 @@
+Write functions for bubble, selection, insertion sort. Analyze all algorithms for following conditions - 
+    i.      For same i/p count number of comparisons
+    ii.     For same i/p count number of swapping operations
+    iii.    Display the content of the list after each pass during the sorting
+    iv.     Major the execution time of each algorithms for different inputs
